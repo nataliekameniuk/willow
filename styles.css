@@ -1,0 +1,70 @@
+.title {
+    font-family: "Playfair Display", serif;
+    font-size: 42px;
+font-weight: 400;
+letter-spacing: -0.21px;
+}
+
+.first:first-letter {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 200%; 
+    color: #171717; 
+    text-transform: uppercase;
+    font-size: 110px;
+font-weight: 400;
+/* float: left; */
+line-height: 89px;
+letter-spacing: -0.55px;
+float: left;
+
+   }
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    height: 940px;
+    width: 1400px; 
+    margin-top: 64px;
+    /* box-shadow: 0 0 25px 25px rgba(133, 133, 133, .1); */
+    box-shadow: 0 4px 68px rgba(0, 0, 0, 0.1);
+    padding: 80px 160px; 
+}
+.colon:before { 
+        content: "“";
+        font-size: 60px;
+letter-spacing: -0.3px;
+line-height: 40px;
+}
+
+.discover_button {
+    background-color: #fff;
+    color: #eaa258;
+    font-size: 18px;
+    padding: 20px 45px ;
+    border: 2px solid #eaa258;
+    text-transform: uppercase;
+    letter-spacing: 3.6px;
+    font-weight: 700;
+}
+.discover_button:hover{
+    color: white ;
+    background-color: #eaa258;
+}
+
+
+
+.text {
+    font-family: 'Lato', sans-serif;
+    opacity: 0.7;
+color: #171717;
+letter-spacing: -0.09px;
+line-height: 34px;
+font-size: 18px;
+font-weight: 300;
+display: block;
+}
+.colon {
+    font-size: 24px;
+letter-spacing: -0.12px;
+line-height: 34px;
+}
